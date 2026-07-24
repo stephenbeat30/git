@@ -1,0 +1,42 @@
+### ???? ###
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+### IDE / ??? ###
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+### ?? / ?? ###
+.agents/
+.codex/
+.nev
+
+### ???? ###
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+### ???? ###
+build/
+dist/
+
+### ?? / ???? ###
+*.log
+*.tmp
+
+### ??? ###
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+### ?????? ###
+~$*
+*.bak
