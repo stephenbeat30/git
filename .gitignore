@@ -1,42 +1,42 @@
-### ???? ###
+﻿### 系统文件 ###
 .DS_Store
 Thumbs.db
 Desktop.ini
 
-### IDE / ??? ###
+### IDE / 编辑器 ###
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-### ?? / ?? ###
+### 工具 / 缓存 ###
 .agents/
 .codex/
 .nev
 
-### ???? ###
+### 依赖目录 ###
 node_modules/
 vendor/
 __pycache__/
 *.pyc
 .pytest_cache/
 
-### ???? ###
+### 构建产物 ###
 build/
 dist/
 
-### ?? / ???? ###
+### 日志 / 临时文件 ###
 *.log
 *.tmp
 
-### ??? ###
+### 压缩包 ###
 *.zip
 *.tar
 *.gz
 *.rar
 *.7z
 
-### ?????? ###
+### 文档临时文件 ###
 ~$*
 *.bak
